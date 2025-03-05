@@ -45,27 +45,19 @@ const Footer = ({}: FooterProps) => {
                 className="transition-opacity opacity-75 hover:opacity-100"
                 rel="noopener noreferrer"
                 target="_blank"
-                href="https://twitter.com/parzerp"
+                href="https://twitter.com/MiirzaBaig"
               >
                 x.com
               </Link>
             </li>
             <li>
-              <Link
-                className="transition-opacity opacity-75 hover:opacity-100"
-                rel="noopener noreferrer"
-                target="_blank"
-                href="https://bsky.app/profile/philparzer.com"
-              >
-                Bluesky
-              </Link>
             </li>
             <li>
               <Link
                 className="transition-opacity opacity-75 hover:opacity-100"
                 rel="noopener noreferrer"
                 target="_blank"
-                href="https://linkedin.com/in/philipp-parzer"
+                href="https://www.linkedin.com/in/mirza-baig-590b1826b/"
               >
                 LinkedIn
               </Link>
@@ -76,161 +68,16 @@ const Footer = ({}: FooterProps) => {
                 className="transition-opacity opacity-75 hover:opacity-100"
                 rel="noopener noreferrer"
                 target="_blank"
-                href="https://github.com/philparzer"
+                href="https://github.com/MiirzaBaig"
               >
                 GitHub
               </Link>
             </li>
             <li>
-              <Link
-                className="transition-opacity opacity-75 hover:opacity-100"
-                rel="noopener noreferrer"
-                target="_blank"
-                href="https://discord.com/users/philguin"
-              >
-                Discord
-              </Link>
             </li>
             <li>
-              <Link
-                className="transition-opacity opacity-75 hover:opacity-100"
-                rel="noopener noreferrer"
-                target="_blank"
-                href="https://twitch.tv/philguin"
-              >
-                Twitch
-              </Link>
             </li>
            
-          </ul>
-        </div>
-        <div className="w-[200px] flex flex-col text-center md:items-start md:text-start">
-          <h2 className="text-lg font-semibold">Some of my work</h2>
-          <ul className="font-light gap-1 flex flex-col items-center md:items-start mt-2">
-            <li>
-              <Link
-                className="transition-opacity flex items-center gap-2 opacity-75 hover:opacity-100"
-                rel="noopener noreferrer"
-                target="_blank"
-                href="https://adlerlagune.com"
-              >
-                <div className="w-[20px] h-[20px] flex items-center justify-center">
-                  <Image
-                    alt="adlerlagune"
-                    className=""
-                    src="/logos/adlerlagune.png"
-                    width={19}
-                    height={19}
-                  ></Image>
-                </div>
-                adlerlagune
-              </Link>
-            </li>
-            <li>
-              <Link
-                className="transition-opacity flex items-center gap-2 opacity-75 hover:opacity-100"
-                rel="noopener noreferrer"
-                target="_blank"
-                href="https://thesentproject.com"
-              >
-                <div className="w-[20px] h-[20px] flex items-center justify-center">
-                  <Image
-                    alt="thesentproject chat bubble logo"
-                    className=""
-                    src="/logos/tsp.png"
-                    width={19}
-                    height={19}
-                  ></Image>
-                </div>
-                thesentproject
-              </Link>
-            </li>
-            <li>
-              <Link
-                className="transition-opacity flex items-center gap-2 opacity-75 hover:opacity-100"
-                rel="noopener noreferrer"
-                target="_blank"
-                href="https://undeaddomains.com"
-              >
-                <Image
-                  alt="undead domains"
-                  src="/logos/undead.png"
-                  width={20}
-                  height={20}
-                ></Image>
-                undead domains
-              </Link>
-            </li>
-            <li>
-              <Link
-                className="transition-opacity flex items-center gap-2 opacity-75 hover:opacity-100"
-                rel="noopener noreferrer"
-                target="_blank"
-                href="https://buoy-productivity.com"
-              >
-                <Image
-                  alt="buoy"
-                  src="/logos/buoy.webp"
-                  width={20}
-                  height={20}
-                ></Image>
-                buoy
-              </Link>
-            </li>
-            <li>
-              <Link
-                className="transition-opacity flex items-center gap-2 opacity-75 hover:opacity-100"
-                rel="noopener noreferrer"
-                target="_blank"
-                href="https://mypoca.com"
-              >
-                <div className="w-[20px] h-[20px] flex items-center justify-center">
-                  <Image
-                    alt="poca"
-                    className=""
-                    src="/logos/poca.gif"
-                    width={18}
-                    height={18}
-                  ></Image>
-                </div>
-                poca
-              </Link>
-            </li>
-            <li>
-              <Link
-                className="transition-opacity flex items-center gap-2 opacity-75 hover:opacity-100"
-                rel="noopener noreferrer"
-                target="_blank"
-                href="https://jotlog.app"
-              >
-                <div className="w-[20px] h-[20px] flex items-center justify-center">
-                  <Image
-                    alt="jotlog"
-                    src="/logos/jotlog.png"
-                    width={16}
-                    height={16}
-                  ></Image>
-                </div>
-                jotlog
-              </Link>
-            </li>
-
-            <li>
-              <Link
-                className="transition-opacity flex items-center gap-2 opacity-75 hover:opacity-100"
-                rel="noopener noreferrer"
-                target="_blank"
-                href="https://ampass.at"
-              >
-                <Image
-                  alt="ampass"
-                  src="/logos/ampass.png"
-                  width={20}
-                  height={20}
-                ></Image>
-                ampass
-              </Link>
-            </li>
           </ul>
         </div>
 
@@ -242,24 +89,24 @@ const Footer = ({}: FooterProps) => {
                 className="opacity-50 transition-opacity hover:opacity-100"
                 href="mailto:parzerphilipp@gmail.com"
               >
-                parzerphilipp@gmail.com
+                mirza.devs@gmail.com
               </Link>
               <p>
                 <Link
                   className="opacity-50 transition-opacity hover:opacity-100"
-                  href="tel:+436605439322"
+                  href="tel:+919121776155"
                 >
-                  +436605439322
+                  +919121776155
                 </Link>
               </p>
               <Link
                 rel="noopener noreferrer"
                 className="opacity-50 transition-opacity hover:opacity-100"
                 target="_blank"
-                href="https://www.google.com/maps/dir//Robertgasse,+1020+Wien/@48.2142711,16.3064723,12z/"
+                href=""
               >
-                <p className="mt-2">Robertgasse 1</p>
-                <p>1020, Vienna, Austria</p>
+                <p className="mt-2">Hyderabad</p>
+                <p>India</p>
               </Link>
             </div>
           </div>
@@ -319,14 +166,14 @@ const Footer = ({}: FooterProps) => {
             <p className="text-whiteout/50 md:w-auto w-full">
               if you have questions or inquiries,{" "}
               <Link
-                href="mailto:hi@adlerlagune.com"
+                href="mailto:mirza.devs@gmail.com"
                 className="underline decoration-2 text-whiteout/75 hover:text-whiteout/100"
               >
                 reach out
               </Link>
             </p>
             <p className="text-xs opacity-50 text-center w-full mt-10 md:mt-0 md:w-auto">
-              last update: WINTER2024
+              last update: WINTER2025
             </p>
           </div>
         </div>

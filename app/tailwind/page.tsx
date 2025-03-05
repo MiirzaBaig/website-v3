@@ -41,7 +41,7 @@ const Page = ({}: PageProps) => {
             <TitledParagraph title="TLDR">
               <div className="flex flex-col gap-2 sm:gap-3">
                 <p>
-                  I’m Phil, a freelance fullstack dev based in Vienna, Austria
+                  I’m Mirza, acfullstack dev based in Hyderabad, India
                   UTC+1.
                 </p>
                 <p>

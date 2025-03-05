@@ -23,7 +23,7 @@ const ScrollContainer = ({}: ScrollContainerProps) => {
         <div className="sticky z-20 top-[33vh] left-0 pl-4 md:pl-0 translate-x-0 lg:translate-x-[100px] md:translate-x-[130px] max-w-[792px] w-full flex justify-center">
           <div className="flex gap-1.5 md:gap-4 relative md:-translate-x-[230px] w-full text-[22px] md:text-[32px] font-semibold items-baseline left-0 ">
             <div className="flex md:gap-4 gap-1.5 items-baseline">
-              Philipp{" "}
+              Mirza{" "}
               <span className="opacity-50 text-lg md:text-[22px]">is</span>{" "}
             </div>
             <div className="relative leading-normal h-[22px] md:h-[33px]">
@@ -134,12 +134,11 @@ const ScrollContainer = ({}: ScrollContainerProps) => {
               >
                 <div className="relative">
                   <p className="text-lg  leading-normal md:text-[22px] max-w-[500px] dark:text-zinc-100/50 text-blackout/50 font-medium">
-                    I build products solo, from 0 to 1.{" "}
+                  I bring ideas to life, taking products from 0 to 1 independently.{" "}
                     <span className="dark:text-zinc-100 text-blackout whitespace-nowrap">
                       Hands-on experience
                     </span>{" "}
-                    is an understatement. <br></br>I design, code, and carry
-                    product.
+                    is an understatement. <br></br> I drive the entire process
                   </p>
                 </div>
               </ContentBox>
@@ -153,18 +152,18 @@ const ScrollContainer = ({}: ScrollContainerProps) => {
                 keywords={["entrepreneur", "agency"]}
               >
                 <p className="text-lg  leading-normal md:text-[22px] max-w-[500px] dark:text-zinc-100/50 text-blackout/50 font-medium">
-                  I&lsquo;m the co-founder of{" "}
+                  I&lsquo;thrive in the space where{" "}
                   <span className="dark:text-zinc-100 text-blackout whitespace-nowrap">
                     <Link
-                      href="https://adlerlagune.com"
+                      href="https://www.linkedin.com/in/mirza-baig-590b1826b/"
                       target="_blank"
                       className="underline inline-flex dark:text-whiteout/100 gap-1 items-center font-semibold text-blackout/100"
                     >
-                      adlerlagune
+                       innovation meets execution
                       <ExternalLink strokeWidth={3} width={20} />
                     </Link>
                   </span>{" "}
-                  a digital agency that also dabbles in original products
+                  taking bold ideas from 0 to 1, designing, coding, and launching them into reality.
                 </p>
               </ContentBox>
             </ul>

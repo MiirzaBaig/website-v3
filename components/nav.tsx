@@ -58,24 +58,18 @@ const Nav = () => {
         <PopoverContent>
           <ul className="flex pointer-events-auto font-medium flex-col gap-4 font-base">
             <li>
-              <Link href="mailto:parzerphilipp@gmail.com">email</Link>
+              <Link href="mailto:mirza.devs@gmail.com">email</Link>
             </li>
             <li>
-              <Link href="tel:+436605439322">phone</Link>
+              <Link href="tel:+919121776155">phone</Link>
             </li>
             <li>
-              <Link href="https://linkedin.com/in/philipp-parzer">
+              <Link href="https://www.linkedin.com/in/mirza-baig-590b1826b/">
                 linkedin
               </Link>
             </li>
             <li>
-              <Link href="https://x.com/parzerp">x.com</Link>
-            </li>
-            <li>
-              <Link href="https://twitch.com/philguin">twitch</Link>
-            </li>
-            <li>
-              <Link href="https://bsky.app/profile/philparzer.com">bluesky</Link>
+              <Link href="https://x.com/Miirzabaig">x.com</Link>
             </li>
           </ul>
         </PopoverContent>
